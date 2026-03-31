@@ -1,22 +1,8 @@
 # Yunxiao LIU — Résumé
 
-LaTeX source for my academic résumé.
+LaTeX source for my academic résumé, built on [Jake's Resume](https://github.com/jakegut/resume) template (MIT License).
 
-Built on [Jake's Resume](https://github.com/jakegut/resume) template (MIT License).
-
-## Build
-
-Requires a LaTeX distribution with `pdflatex` and the `mhchem` package.
-
-```bash
-pdflatex resume.tex
-```
-
-Or with `latexmk` for automatic reruns:
-
-```bash
-latexmk -pdf resume.tex
-```
+[View PDF](resume.pdf)
 
 ## License
 
